@@ -1,0 +1,22 @@
+{
+  "name": "twixt-watch",
+  "version": "0.0.1",
+  "description": "Proxy wrapper to watch for changes",
+  "main": "watch.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richRemer/twixt-watch.git"
+  },
+  "author": "Richard Remer (reanjr@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/twixt-watch/issues"
+  },
+  "homepage": "https://github.com/richRemer/twixt-watch#readme",
+  "dependencies": {
+    "twixt-event-target": "0.0.1"
+  }
+}
