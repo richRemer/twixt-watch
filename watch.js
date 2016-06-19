@@ -4,7 +4,7 @@ var EventTarget = require("twixt-event-target"),
 /**
  * Create a watch proxy for an object.
  * @param {object} obj
- * @returns {Proxy}
+ * @returns {Watch}
  */
 function Watch(obj) {
     var triggered,
